@@ -17,7 +17,7 @@
       <input type="text" class="form-control" placeholder="Your Email" name="email">
       <span class="input-group-text">@example.com</span>
     </div><br>
-<h3>Gender</h3>
+<h3>Gender   bnj</h3>
 <div class="form-check">
 <input type="radio" class="form-check-input selected" id="m" checked>
 <lable for="m" class="form-check-lable">Male</lable>
